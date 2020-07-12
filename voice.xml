@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="alice">This is a Hariom Awasthi. Keep in Mind Prabhu Iccha, Prabhu Iccha. Enjoy your day. </Say>
-    
+  <Say voice="alice">Hello Hariom. What is goin on in the life. how is the university and what is the covid status in university Enjoy!</Say>
+  <Play>https://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
+
