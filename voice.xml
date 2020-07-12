@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="alice">Hello Hariom. What is goin on in the life. how is the university and what is the covid status in university Enjoy!</Say>
+  <Say voice="alice">Hello Hariom. What is going on in the life. how is the university and what is the covid status in university Enjoy!</Say>
   <Play>https://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
 
